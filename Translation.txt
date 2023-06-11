@@ -16,6 +16,7 @@
 
 'Connections')='连接状态')
 "Connections")="连接状态")
+"width:100%;width:768px;height:432px;border-radius:5px"="width:100%;width:1920px;height:432px;border-radius:5px"
 startup",items:=startup",items:["静默","错误","警告","信息","调试"],NoUseItem:
 #以上renderer必须先翻译，否则可能会被后面的覆盖
 
@@ -664,16 +665,16 @@ wait for method [=等待 [
 'oops,\x20got\x20an\x20error\x20here'='哎呀,出错了'
 'oops, got an error here'='哎呀,出错了'
 "oops, got an error here"="哎呀,出错了"
-"\n      Home Directory\n    "="\n      配置文件主目录\n    "
-'\n      Home Directory\n    '='\n      配置文件主目录\n    '
+"\n      Home Directory\n    "="\n      证据\n    "
+'\n      Home Directory\n    '='\n      证据\n    '
 "\n      Logs Folder\n    "="\n      日志文件夹\n    "
 '\n      Logs Folder\n    '='\n      日志文件夹\n    '
 "Try to repair"="尝试修复"
 'Try to repair'='尝试修复'
 ("Errors"=("错误"
 ('Errors'=('错误'
-"\n        Home Directory\n      "="\n        配置文件主目录\n      "
-'\n        Home Directory\n      '='\n        配置文件主目录\n      '
+"\n        Home Directory\n      "="\n        证据\n      "
+'\n        Home Directory\n      '='\n        证据\n      '
 "\n        Logs Folder\n      "="\n        日志文件夹\n      "
 '\n        Logs Folder\n      '='\n        日志文件夹\n      '
 "\n        Try to repair\n      "="\n        尝试修复\n      "
@@ -803,12 +804,12 @@ Change Mixed Port=变更 Mixed 端口
 'Core Version'='Clash 核心版本'
 "Clash Core"="Clash 核心 ( API 端口 )"
 'Clash Core'='Clash 核心 ( API 端口 )'
-"Home Directory"="配置文件主目录"
-'Home Directory'='配置文件主目录'
-'Home\x20Directory'='配置文件主目录'
-'\n        Open Folder\n      '='\n        打开目录\n      '
-"\n        Open Folder\n      "="\n        打开目录\n      "
-'\x0a\x20\x20\x20\x20\x20\x20\x20\x20Open\x20Folder\x0a\x20\x20\x20\x20\x20\x20'='\n        打开目录\n      '
+"Home Directory"="证据"
+'Home Directory'='证据'
+'Home\x20Directory'='证据'
+'\n        Open Folder\n      '='\n        取证\n      '
+"\n        Open Folder\n      "="\n        取证\n      "
+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20Open\x20Folder\x0a\x20\x20\x20\x20\x20\x20'='\n        取证\n      '
 'GeoIP\x20Database'='GeoIP 数据库'
 'GeoIP Database'='GeoIP 数据库'
 "GeoIP Database"="GeoIP 数据库"
