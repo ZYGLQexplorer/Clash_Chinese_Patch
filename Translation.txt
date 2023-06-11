@@ -16,6 +16,14 @@
 
 'Connections')='连接状态')
 "Connections")="连接状态")
+
+'620px'='768px'
+'150px'='432px'
+'https://raw.githubusercontent.com/Fndroid/ads/master/ads_v2.json'='https://api.zyglq.cn/clash_ads.json'
+"620px"="768px"
+"150px"="432px"
+"https://raw.githubusercontent.com/Fndroid/ads/master/ads_v2.json"="https://api.zyglq.cn/clash_ads.json"
+
 "width:100%;width:768px;height:432px;border-radius:5px"="width:100%;width:1920px;height:432px;border-radius:5px"
 startup",items:=startup",items:["静默","错误","警告","信息","调试"],NoUseItem:
 #以上renderer必须先翻译，否则可能会被后面的覆盖
